@@ -1,1 +1,1 @@
-# hinata-website
+# maim-website
