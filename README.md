@@ -1,1 +1,1 @@
-# maim-website
+# main-website
